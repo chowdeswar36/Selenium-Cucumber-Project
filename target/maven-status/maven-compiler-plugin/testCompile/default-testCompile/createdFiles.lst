@@ -1,0 +1,9 @@
+stepDefinitions\Hooks.class
+stepDefinitions\LoginSteps.class
+pom_page_Objects\SearchCustomerPage.class
+pom_page_Objects\AddCustomerPage.class
+Utilities\BaseClass.class
+testRunner\Test_Runner.class
+stepDefinitions\SearchCustomerSteps.class
+stepDefinitions\AddCustomerSteps.class
+pom_page_Objects\LoginPage.class

@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.Test_Runner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 86.305 s <<< FAILURE! - in testRunner.Test_Runner
+login with valid and Invalid credentials #2(Test login functionality)  Time elapsed: 4.73 s  <<< ERROR!
+java.lang.Exception: Invalid page with different title
+
+login with valid and Invalid credentials #3(Test login functionality)  Time elapsed: 7.836 s  <<< ERROR!
+java.lang.Exception: Invalid page with different title
+
+login with valid and Invalid credentials #4(Test login functionality)  Time elapsed: 4.838 s  <<< ERROR!
+java.lang.Exception: Invalid page with different title
+
